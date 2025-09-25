@@ -1,1 +1,0 @@
-$ python previsao_pt.py C:/Users/sofia/OneDrive/Documentos/Juncao_modelos/DATASET_PT/BAIANO_TESTE/teste4.wav
